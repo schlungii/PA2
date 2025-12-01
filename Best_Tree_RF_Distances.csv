@@ -1,0 +1,43 @@
+Dataset,Epsilon,Tree_File_Path,RF_Distance_Absolute,RF_Distance_Max_Possible,RF_Distance_Normalized,Note
+dna_easy,0.0001,.\dna_easy\0.0001\1761852001013978_out\1761852001013978_start_tree.newick,0,12,0.0,Reference (Highest Precision)
+dna_easy,0.0005,.\dna_easy\0.0005\1761841117152047_out\1761841117152047_start_tree.newick,0,12,0.0,Comparison
+dna_easy,0.001,.\dna_easy\0.001\1761768389588478_out\1761768389588478_start_tree.newick,4,12,0.3333333333333333,Comparison
+dna_easy,0.005,.\dna_easy\0.005\1761831853859383_out\1761831853859383_start_tree.newick,2,12,0.16666666666666666,Comparison
+dna_easy,0.01,.\dna_easy\0.01\1761809190249939_out\1761809190249939_start_tree.newick,0,12,0.0,Comparison
+dna_easy,0.1,.\dna_easy\0.1\1761860499615071_out\1761860499615071_start_tree.newick,2,12,0.16666666666666666,Comparison
+dna_easy,0.5,.\dna_easy\0.5\1761891836236543_out\1761891836236543_start_tree.newick,0,12,0.0,Comparison
+dna_medium,0.0001,.\dna_medium\0.0001\1761911024216573_out\1761911024216573_start_tree.newick,0,82,0.0,Reference (Highest Precision)
+dna_medium,0.0005,.\dna_medium\0.0005\1761993693324494_out\1761993693324494_start_tree.newick,2,82,0.024390243902439025,Comparison
+dna_medium,0.001,.\dna_medium\0.001\1761904159307516_out\1761904159307516_start_tree.newick,2,82,0.024390243902439025,Comparison
+dna_medium,0.005,.\dna_medium\0.005\1761982480062710_out\1761982480062710_start_tree.newick,0,82,0.0,Comparison
+dna_medium,0.01,.\dna_medium\0.01\1761935942105284_out\1761935942105284_start_tree.newick,2,82,0.024390243902439025,Comparison
+dna_medium,0.1,.\dna_medium\0.1\1761942250041597_out\1761942250041597_start_tree.newick,2,82,0.024390243902439025,Comparison
+dna_medium,0.5,.\dna_medium\0.5\1762002901204735_out\1762002901204735_start_tree.newick,0,82,0.0,Comparison
+dna_hard,0.0001,.\dna_hard\0.0001\1762077165713913_out\1762077165713913_start_tree.newick,0,92,0.0,Reference (Highest Precision)
+dna_hard,0.0005,.\dna_hard\0.0005\1762088750312191_out\1762088750312191_start_tree.newick,64,92,0.6956521739130435,Comparison
+dna_hard,0.001,.\dna_hard\0.001\1762011148192379_out\1762011148192379_start_tree.newick,64,92,0.6956521739130435,Comparison
+dna_hard,0.005,.\dna_hard\0.005\1762086140475647_out\1762086140475647_start_tree.newick,64,92,0.6956521739130435,Comparison
+dna_hard,0.01,.\dna_hard\0.01\1762081166016159_out\1762081166016159_start_tree.newick,64,92,0.6956521739130435,Comparison
+dna_hard,0.1,.\dna_hard\0.1\1762084077387709_out\1762084077387709_start_tree.newick,64,92,0.6956521739130435,Comparison
+dna_hard,0.5,.\dna_hard\0.5\1762097957816283_out\1762097957816283_start_tree.newick,64,92,0.6956521739130435,Comparison
+aa_easy,0.0001,.\aa_easy\0.0001\1762106743175527_out\1762106743175527_start_tree.newick,0,8,0.0,Reference (Highest Precision)
+aa_easy,0.0005,.\aa_easy\0.0005\1762115905056472_out\1762115905056472_start_tree.newick,2,8,0.25,Comparison
+aa_easy,0.001,.\aa_easy\0.001\1762101316465407_out\1762101316465407_start_tree.newick,2,8,0.25,Comparison
+aa_easy,0.005,.\aa_easy\0.005\1762113329717463_out\1762113329717463_start_tree.newick,0,8,0.0,Comparison
+aa_easy,0.01,.\aa_easy\0.01\1762108759013629_out\1762108759013629_start_tree.newick,2,8,0.25,Comparison
+aa_easy,0.1,.\aa_easy\0.1\1762110826067308_out\1762110826067308_start_tree.newick,2,8,0.25,Comparison
+aa_easy,0.5,.\aa_easy\0.5\1762149078066583_out\1762149078066583_start_tree.newick,2,8,0.25,Comparison
+aa_medium,0.0001,.\aa_medium\0.0001\1762162710391006_out\1762162710391006_start_tree.newick,0,56,0.0,Reference (Highest Precision)
+aa_medium,0.0005,.\aa_medium\0.0005\1762198566294447_out\1762198566294447_start_tree.newick,4,56,0.07142857142857142,Comparison
+aa_medium,0.001,.\aa_medium\0.001\1762160236620249_out\1762160236620249_start_tree.newick,2,56,0.03571428571428571,Comparison
+aa_medium,0.005,.\aa_medium\0.005\1762196351044735_out\1762196351044735_start_tree.newick,4,56,0.07142857142857142,Comparison
+aa_medium,0.01,.\aa_medium\0.01\1762165569730759_out\1762165569730759_start_tree.newick,0,56,0.0,Comparison
+aa_medium,0.1,.\aa_medium\0.1\1762192708915195_out\1762192708915195_start_tree.newick,4,56,0.07142857142857142,Comparison
+aa_medium,0.5,.\aa_medium\0.5\1762200975282803_out\1762200975282803_start_tree.newick,2,56,0.03571428571428571,Comparison
+aa_hard,0.0001,.\aa_hard\0.0001\1762204558872319_out\1762204558872319_start_tree.newick,0,70,0.0,Reference (Highest Precision)
+aa_hard,0.0005,.\aa_hard\0.0005\1762245085357244_out\1762245085357244_start_tree.newick,0,70,0.0,Comparison
+aa_hard,0.001,.\aa_hard\0.001\1762202915606011_out\1762202915606011_start_tree.newick,0,70,0.0,Comparison
+aa_hard,0.005,.\aa_hard\0.005\1762244037737215_out\1762244037737215_start_tree.newick,0,70,0.0,Comparison
+aa_hard,0.01,.\aa_hard\0.01\1762206541973751_out\1762206541973751_start_tree.newick,0,70,0.0,Comparison
+aa_hard,0.1,.\aa_hard\0.1\1762241375655998_out\1762241375655998_start_tree.newick,0,70,0.0,Comparison
+aa_hard,0.5,.\aa_hard\0.5\1762246214168694_out\1762246214168694_start_tree.newick,0,70,0.0,Comparison
